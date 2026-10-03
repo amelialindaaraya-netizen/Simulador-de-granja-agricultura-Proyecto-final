@@ -12,3 +12,7 @@
 .vs/
 .DS_Store
 Thumbs.db
+*.log
+*.pid
+*.db
+*.traceevents
